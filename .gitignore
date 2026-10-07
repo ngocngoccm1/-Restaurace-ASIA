@@ -1,0 +1,9 @@
+# Original source materials and prior implementation remain local.
+/research/
+/website/
+/*.docx
+/*.jpg
+/*.tar.gz
+/*.zip
+.DS_Store
+Thumbs.db

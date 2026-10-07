@@ -1,0 +1,1424 @@
+{
+  "source": "https://www.facebook.com/share/p/19qDzLxX78/",
+  "sourceDate": "2026-07-15",
+  "extractedAt": "2026-10-06",
+  "categories": [
+    {
+      "id": "soups",
+      "nameCs": "Polévky"
+    },
+    {
+      "id": "starters",
+      "nameCs": "Předkrmy"
+    },
+    {
+      "id": "salads",
+      "nameCs": "Saláty"
+    },
+    {
+      "id": "main",
+      "nameCs": "Hlavní jídla"
+    },
+    {
+      "id": "hotplate",
+      "nameCs": "Na horké plotýnce / Mini horký hrnec"
+    },
+    {
+      "id": "vegetarian",
+      "nameCs": "Vegetariánská jídla"
+    },
+    {
+      "id": "desserts",
+      "nameCs": "Dezerty"
+    },
+    {
+      "id": "sides",
+      "nameCs": "Přílohy"
+    }
+  ],
+  "items": [
+    {
+      "id": "1",
+      "number": 1,
+      "nameCs": "Polévka se skleněnými nudlemi a kuřecím masem",
+      "nameVi": "Súp miến gà",
+      "nameEn": "Chicken Glass Noodle Soup",
+      "category": "soups",
+      "description": "",
+      "price": 65,
+      "currency": "CZK",
+      "portion": "150 ml",
+      "variants": [],
+      "allergens": [],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-02.jpg",
+      "review": []
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "nameCs": "Pekingská polévka",
+      "nameVi": "Súp Bắc Kinh",
+      "nameEn": "Beijing Soup",
+      "category": "soups",
+      "description": "",
+      "price": 55,
+      "currency": "CZK",
+      "portion": "150 ml",
+      "variants": [],
+      "allergens": [
+        1,
+        3
+      ],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-02.jpg",
+      "review": []
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "nameCs": "Zeleninová polévka",
+      "nameVi": "Súp rau",
+      "nameEn": "Vegetable Soup",
+      "category": "soups",
+      "description": "",
+      "price": 45,
+      "currency": "CZK",
+      "portion": "150 ml",
+      "variants": [],
+      "allergens": [],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-02.jpg",
+      "review": []
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "nameCs": "Čerstvé jarní závitky",
+      "nameVi": "Gỏi cuốn",
+      "nameEn": "Fresh Spring Rolls",
+      "category": "starters",
+      "description": "",
+      "price": 90,
+      "currency": "CZK",
+      "portion": "2 ks",
+      "variants": [],
+      "allergens": [
+        2,
+        3
+      ],
+      "image": "assets/fresh-rolls.webp",
+      "imageVariant": null,
+      "source": "assets/menu-02.jpg",
+      "review": [],
+      "imageNote": "Fotografie z videa restaurace. Pictured plating may differ from the current 2-piece serving."
+    },
+    {
+      "id": "5",
+      "number": 5,
+      "nameCs": "Smažené závitky",
+      "nameVi": "Nem rán",
+      "nameEn": "Spring Rolls",
+      "category": "starters",
+      "description": "",
+      "price": 105,
+      "currency": "CZK",
+      "portion": "3 ks",
+      "variants": [],
+      "allergens": [
+        1,
+        3
+      ],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-02.jpg",
+      "review": []
+    },
+    {
+      "id": "6",
+      "number": 6,
+      "nameCs": "Mini veganské závitky",
+      "nameVi": "Nem chay mini",
+      "nameEn": "Mini Vegan Spring Rolls",
+      "category": "starters",
+      "description": "",
+      "price": 100,
+      "currency": "CZK",
+      "portion": "10 ks",
+      "variants": [],
+      "allergens": [
+        1,
+        3
+      ],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-02.jpg",
+      "review": []
+    },
+    {
+      "id": "7",
+      "number": 7,
+      "nameCs": "Smažené krevety obalované kokosovou strouhankou",
+      "nameVi": "Tôm chiên xù dừa",
+      "nameEn": "Coconut Breaded Fried Shrimp",
+      "category": "starters",
+      "description": "",
+      "price": 115,
+      "currency": "CZK",
+      "portion": "5 ks",
+      "variants": [],
+      "allergens": [
+        1,
+        2,
+        3
+      ],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-02.jpg",
+      "review": []
+    },
+    {
+      "id": "8",
+      "number": 8,
+      "nameCs": "Smažené obalované krevety",
+      "nameVi": "Tôm chiên xù",
+      "nameEn": "Breaded Fried Shrimp",
+      "category": "starters",
+      "description": "",
+      "price": 135,
+      "currency": "CZK",
+      "portion": "3 ks",
+      "variants": [],
+      "allergens": [
+        1,
+        2,
+        3
+      ],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-02.jpg",
+      "review": []
+    },
+    {
+      "id": "9",
+      "number": 9,
+      "nameCs": "Krevetové knedlíčky",
+      "nameVi": "Há cảo tôm",
+      "nameEn": "Steamed Shrimp Dumplings",
+      "category": "starters",
+      "description": "",
+      "price": 115,
+      "currency": "CZK",
+      "portion": "5 ks",
+      "variants": [],
+      "allergens": [
+        2
+      ],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-02.jpg",
+      "review": []
+    },
+    {
+      "id": "10",
+      "number": 10,
+      "nameCs": "Hamburger se smaženým sýrem",
+      "nameVi": "Hamburger phô mai chiên",
+      "nameEn": "Fried Cheese Hamburger",
+      "category": "starters",
+      "description": "",
+      "price": 120,
+      "currency": "CZK",
+      "portion": "120 g",
+      "variants": [],
+      "allergens": [
+        1,
+        3,
+        7
+      ],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-02.jpg",
+      "review": []
+    },
+    {
+      "id": "11",
+      "number": 11,
+      "nameCs": "Míchaný salát",
+      "nameVi": "Salad trộn",
+      "nameEn": "Mixed Salad",
+      "category": "salads",
+      "description": "",
+      "price": 75,
+      "currency": "CZK",
+      "portion": "130 g",
+      "variants": [],
+      "allergens": [],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-03.jpg",
+      "review": []
+    },
+    {
+      "id": "12",
+      "number": 12,
+      "nameCs": "Kuřecí salát",
+      "nameVi": "Salad gà",
+      "nameEn": "Chicken Salad",
+      "category": "salads",
+      "description": "",
+      "price": 125,
+      "currency": "CZK",
+      "portion": "130 g",
+      "variants": [],
+      "allergens": [],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-03.jpg",
+      "review": []
+    },
+    {
+      "id": "13",
+      "number": 13,
+      "nameCs": "Nudlová polévka Pho / Bun",
+      "nameVi": "Phở / Bún nước",
+      "nameEn": "Rice Noodle Soup Pho / Bun",
+      "category": "main",
+      "description": "",
+      "price": null,
+      "currency": "CZK",
+      "portion": "350 ml",
+      "variants": [
+        {
+          "nameCs": "Kuřecí maso",
+          "price": 185,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Hovězí maso",
+          "price": 185,
+          "allergens": [],
+          "image": null
+        }
+      ],
+      "allergens": [],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-03.jpg",
+      "review": []
+    },
+    {
+      "id": "14",
+      "number": 14,
+      "nameCs": "Bun Nam Bo",
+      "nameVi": "Bún Nam Bộ",
+      "nameEn": "Rice Noodles with Salad and Peanuts",
+      "category": "main",
+      "description": "",
+      "price": null,
+      "currency": "CZK",
+      "portion": "250 g",
+      "variants": [
+        {
+          "nameCs": "Hovězí maso",
+          "price": 185,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Tofu",
+          "price": 185,
+          "allergens": [
+            6
+          ],
+          "image": null
+        },
+        {
+          "nameCs": "Smažené závitky",
+          "price": 185,
+          "allergens": [
+            1,
+            3
+          ],
+          "image": null
+        }
+      ],
+      "allergens": [
+        5
+      ],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-03.jpg",
+      "review": [
+        "English protein labels contradict Czech labels in source. Czech labels preserved; confirm with owner."
+      ]
+    },
+    {
+      "id": "15",
+      "number": 15,
+      "nameCs": "Smažené nudle",
+      "nameVi": "Mì xào",
+      "nameEn": "Fried Noodles",
+      "category": "main",
+      "description": "",
+      "price": null,
+      "currency": "CZK",
+      "portion": "250 g",
+      "variants": [
+        {
+          "nameCs": "Kuřecí maso",
+          "price": 150,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Vepřové maso",
+          "price": 160,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Hovězí maso",
+          "price": 175,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Krevety",
+          "price": 180,
+          "allergens": [
+            2
+          ],
+          "image": null
+        },
+        {
+          "nameCs": "Kachní maso",
+          "price": 245,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Tofu",
+          "price": 150,
+          "allergens": [
+            6
+          ],
+          "image": null
+        }
+      ],
+      "allergens": [
+        1,
+        3,
+        6
+      ],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-03.jpg",
+      "review": []
+    },
+    {
+      "id": "16",
+      "number": 16,
+      "nameCs": "Smažená rýže",
+      "nameVi": "Cơm chiên",
+      "nameEn": "Fried Rice",
+      "category": "main",
+      "description": "",
+      "price": null,
+      "currency": "CZK",
+      "portion": "250 g",
+      "variants": [
+        {
+          "nameCs": "Kuřecí maso",
+          "price": 155,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Vepřové maso",
+          "price": 165,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Hovězí maso",
+          "price": 175,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Krevety",
+          "price": 190,
+          "allergens": [
+            2
+          ],
+          "image": null
+        },
+        {
+          "nameCs": "Kachní maso",
+          "price": 245,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Tofu",
+          "price": 155,
+          "allergens": [
+            6
+          ],
+          "image": null
+        }
+      ],
+      "allergens": [
+        1,
+        3
+      ],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-04.jpg",
+      "review": []
+    },
+    {
+      "id": "17",
+      "number": 17,
+      "nameCs": "Smažené rýžové nudle",
+      "nameVi": "Bún xào",
+      "nameEn": "Fried Rice Noodles",
+      "category": "main",
+      "description": "",
+      "price": null,
+      "currency": "CZK",
+      "portion": "250 g",
+      "variants": [
+        {
+          "nameCs": "Kuřecí maso",
+          "price": 165,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Vepřové maso",
+          "price": 175,
+          "allergens": [],
+          "image": "assets/rice-noodles.webp"
+        },
+        {
+          "nameCs": "Hovězí maso",
+          "price": 185,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Krevety",
+          "price": 190,
+          "allergens": [
+            2
+          ],
+          "image": null
+        },
+        {
+          "nameCs": "Kachní maso",
+          "price": 245,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Tofu",
+          "price": 165,
+          "allergens": [
+            6
+          ],
+          "image": null
+        }
+      ],
+      "allergens": [
+        3
+      ],
+      "image": "assets/rice-noodles.webp",
+      "imageVariant": "Vepřové maso",
+      "source": "assets/menu-04.jpg",
+      "review": []
+    },
+    {
+      "id": "18",
+      "number": 18,
+      "nameCs": "Smažené skleněné nudle",
+      "nameVi": "Miến xào",
+      "nameEn": "Fried Glass Noodles",
+      "category": "main",
+      "description": "",
+      "price": null,
+      "currency": "CZK",
+      "portion": "250 g",
+      "variants": [
+        {
+          "nameCs": "Kuřecí maso",
+          "price": 165,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Vepřové maso",
+          "price": 179,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Hovězí maso",
+          "price": 185,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Krevety",
+          "price": 190,
+          "allergens": [
+            2
+          ],
+          "image": null
+        },
+        {
+          "nameCs": "Kachní maso",
+          "price": 245,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Tofu",
+          "price": 165,
+          "allergens": [
+            6
+          ],
+          "image": null
+        }
+      ],
+      "allergens": [
+        3
+      ],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-04.jpg",
+      "review": []
+    },
+    {
+      "id": "19",
+      "number": 19,
+      "nameCs": "Kung Pao s rýží",
+      "nameVi": "Kung Pao với cơm",
+      "nameEn": "Kung Pao with Rice",
+      "category": "main",
+      "description": "",
+      "price": null,
+      "currency": "CZK",
+      "portion": "250 g",
+      "variants": [
+        {
+          "nameCs": "Kuřecí maso",
+          "price": 175,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Vepřové maso",
+          "price": 180,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Hovězí maso",
+          "price": 185,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Krevety",
+          "price": 190,
+          "allergens": [
+            2
+          ],
+          "image": null
+        },
+        {
+          "nameCs": "Tofu",
+          "price": 175,
+          "allergens": [
+            6
+          ],
+          "image": null
+        }
+      ],
+      "allergens": [
+        1,
+        5,
+        6
+      ],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-05.jpg",
+      "review": []
+    },
+    {
+      "id": "20",
+      "number": 20,
+      "nameCs": "Restovaná zelenina s masem a rýží",
+      "nameVi": "Rau xào với cơm và thịt",
+      "nameEn": "Stir-Fried Vegetables with Meat and Rice",
+      "category": "main",
+      "description": "",
+      "price": null,
+      "currency": "CZK",
+      "portion": "250 g",
+      "variants": [
+        {
+          "nameCs": "Kuřecí maso",
+          "price": 170,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Vepřové maso",
+          "price": 185,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Hovězí maso",
+          "price": 185,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Krevety",
+          "price": 185,
+          "allergens": [
+            2
+          ],
+          "image": null
+        }
+      ],
+      "allergens": [
+        6
+      ],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-05.jpg",
+      "review": []
+    },
+    {
+      "id": "21",
+      "number": 21,
+      "nameCs": "Pikantní se zeleninou a rýží",
+      "nameVi": "Món cay với rau và cơm",
+      "nameEn": "Spicy with Vegetables and Rice",
+      "category": "main",
+      "description": "",
+      "price": null,
+      "currency": "CZK",
+      "portion": "250 g",
+      "variants": [
+        {
+          "nameCs": "Kuřecí maso",
+          "price": null,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Vepřové maso",
+          "price": null,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Hovězí maso",
+          "price": null,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Krevety",
+          "price": null,
+          "allergens": [
+            2
+          ],
+          "image": null
+        },
+        {
+          "nameCs": "Kachní maso",
+          "price": null,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Tofu",
+          "price": null,
+          "allergens": [
+            6
+          ],
+          "image": null
+        }
+      ],
+      "allergens": [],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-05.jpg",
+      "review": [
+        "All variant prices cropped at right edge. Do not infer from visible prefixes."
+      ]
+    },
+    {
+      "id": "22",
+      "number": 22,
+      "nameCs": "Křupavá kachna se zeleninou a rýží",
+      "nameVi": "Vịt chiên giòn với rau và cơm",
+      "nameEn": "Crispy Duck with Vegetables and Rice",
+      "category": "main",
+      "description": "",
+      "price": null,
+      "currency": "CZK",
+      "portion": "250 g",
+      "variants": [],
+      "allergens": [
+        1,
+        6
+      ],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-05.jpg",
+      "review": [
+        "Price cropped in source. Historical food post price is not used. Photo shows rice, duck and salad, not current vegetables preparation; kept as general restaurant photography."
+      ]
+    },
+    {
+      "id": "23",
+      "number": 23,
+      "nameCs": "Kari se zeleninou a rýží",
+      "nameVi": "Cà ri với rau và cơm",
+      "nameEn": "Curry with Vegetables and Rice",
+      "category": "main",
+      "description": "",
+      "price": null,
+      "currency": "CZK",
+      "portion": "250 g",
+      "variants": [
+        {
+          "nameCs": "Kuřecí maso",
+          "price": 175,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Vepřové maso",
+          "price": 175,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Hovězí maso",
+          "price": 185,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Krevety",
+          "price": 190,
+          "allergens": [
+            2
+          ],
+          "image": null
+        },
+        {
+          "nameCs": "Kachní maso",
+          "price": 235,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Tofu",
+          "price": 175,
+          "allergens": [
+            6
+          ],
+          "image": null
+        }
+      ],
+      "allergens": [
+        7
+      ],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-06.jpg",
+      "review": []
+    },
+    {
+      "id": "24",
+      "number": 24,
+      "nameCs": "Kuřecí řízek s hranolkami",
+      "nameVi": "Gà chiên xù với khoai tây chiên",
+      "nameEn": "Chicken Cutlet with French Fries",
+      "category": "main",
+      "description": "",
+      "price": 195,
+      "currency": "CZK",
+      "portion": "250 g",
+      "variants": [],
+      "allergens": [
+        1,
+        3
+      ],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-06.jpg",
+      "review": []
+    },
+    {
+      "id": "25",
+      "number": 25,
+      "nameCs": "Smažený sýr s hranolkami",
+      "nameVi": "Phô mai chiên với khoai tây chiên",
+      "nameEn": "Fried Cheese with French Fries",
+      "category": "main",
+      "description": "",
+      "price": 165,
+      "currency": "CZK",
+      "portion": "250 g",
+      "variants": [],
+      "allergens": [
+        1,
+        3,
+        7
+      ],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-06.jpg",
+      "review": []
+    },
+    {
+      "id": "26",
+      "number": 26,
+      "nameCs": "Voňavé a křehké kuře s rýží",
+      "nameVi": "Gà thơm mềm với cơm",
+      "nameEn": "Fragrant and Tender Chicken with Rice",
+      "category": "main",
+      "description": "",
+      "price": 185,
+      "currency": "CZK",
+      "portion": "250 g",
+      "variants": [],
+      "allergens": [
+        1,
+        3,
+        6
+      ],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-06.jpg",
+      "review": []
+    },
+    {
+      "id": "27",
+      "number": 27,
+      "nameCs": "Smažené kuřecí kousky s hranolkami",
+      "nameVi": "Gà chiên miếng với khoai tây chiên",
+      "nameEn": "Fried Chicken Pieces with French Fries",
+      "category": "main",
+      "description": "",
+      "price": 175,
+      "currency": "CZK",
+      "portion": "250 g",
+      "variants": [],
+      "allergens": [
+        1,
+        3
+      ],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-06.jpg",
+      "review": []
+    },
+    {
+      "id": "28",
+      "number": 28,
+      "nameCs": "3 druhy masa se zeleninou a rýží",
+      "nameVi": "Ba loại thịt với rau và cơm",
+      "nameEn": "Three Kinds of Meat with Vegetables and Rice",
+      "category": "hotplate",
+      "description": "",
+      "price": 265,
+      "currency": "CZK",
+      "portion": "350 g",
+      "variants": [],
+      "allergens": [
+        6
+      ],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-07.jpg",
+      "review": []
+    },
+    {
+      "id": "29",
+      "number": 29,
+      "nameCs": "Křupavá kachna se zeleninou a rýží",
+      "nameVi": "Vịt chiên giòn với rau và cơm",
+      "nameEn": "Crispy Duck with Vegetables and Rice",
+      "category": "hotplate",
+      "description": "",
+      "price": 255,
+      "currency": "CZK",
+      "portion": "350 g",
+      "variants": [],
+      "allergens": [
+        6
+      ],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-07.jpg",
+      "review": []
+    },
+    {
+      "id": "30",
+      "number": 30,
+      "nameCs": "Krevety s tofu, zeleninou a rýží",
+      "nameVi": "Tôm với đậu phụ, rau và cơm",
+      "nameEn": "Shrimp with Tofu, Vegetables and Rice",
+      "category": "hotplate",
+      "description": "",
+      "price": 265,
+      "currency": "CZK",
+      "portion": "350 g",
+      "variants": [],
+      "allergens": [
+        2,
+        6
+      ],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-07.jpg",
+      "review": []
+    },
+    {
+      "id": "31",
+      "number": 31,
+      "nameCs": "Restovaná zelenina s rýží",
+      "nameVi": "Rau xào với cơm",
+      "nameEn": "Stir-Fried Vegetables with Rice",
+      "category": "vegetarian",
+      "description": "",
+      "price": 160,
+      "currency": "CZK",
+      "portion": "250 g",
+      "variants": [],
+      "allergens": [
+        6
+      ],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-07.jpg",
+      "review": []
+    },
+    {
+      "id": "32",
+      "number": 32,
+      "nameCs": "Restovaná zelenina s tofu a rýží",
+      "nameVi": "Rau xào với đậu phụ và cơm",
+      "nameEn": "Stir-Fried Vegetables with Tofu and Rice",
+      "category": "vegetarian",
+      "description": "",
+      "price": 175,
+      "currency": "CZK",
+      "portion": "250 g",
+      "variants": [],
+      "allergens": [
+        6
+      ],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-07.jpg",
+      "review": []
+    },
+    {
+      "id": "33",
+      "number": 33,
+      "nameCs": "Smažený banán",
+      "nameVi": "Chuối chiên",
+      "nameEn": "Fried Banana",
+      "category": "desserts",
+      "description": "",
+      "price": 85,
+      "currency": "CZK",
+      "portion": "80 g",
+      "variants": [],
+      "allergens": [
+        1
+      ],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-08.jpg",
+      "review": []
+    },
+    {
+      "id": "34",
+      "number": 34,
+      "nameCs": "Krevetové lupínky",
+      "nameVi": "Phồng tôm",
+      "nameEn": "Shrimp Chips",
+      "category": "desserts",
+      "description": "",
+      "price": 85,
+      "currency": "CZK",
+      "portion": "50 g",
+      "variants": [],
+      "allergens": [
+        2
+      ],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-08.jpg",
+      "review": []
+    },
+    {
+      "id": "35",
+      "number": 35,
+      "nameCs": "Sladkokyselá omáčka se zeleninou a rýží",
+      "nameVi": "Sốt chua ngọt với rau và cơm",
+      "nameEn": "Sweet and Sour Sauce with Vegetables and Rice",
+      "category": "main",
+      "description": "",
+      "price": null,
+      "currency": "CZK",
+      "portion": "250 g",
+      "variants": [
+        {
+          "nameCs": "Kuřecí maso",
+          "price": 175,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Vepřové maso",
+          "price": 175,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Hovězí maso",
+          "price": 185,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Krevety",
+          "price": 190,
+          "allergens": [
+            2
+          ],
+          "image": null
+        },
+        {
+          "nameCs": "Tofu",
+          "price": 175,
+          "allergens": [
+            6
+          ],
+          "image": null
+        },
+        {
+          "nameCs": "Smažené kuřecí kousky",
+          "price": 175,
+          "allergens": [
+            1,
+            3
+          ],
+          "image": null
+        }
+      ],
+      "allergens": [],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-09.jpg",
+      "review": []
+    },
+    {
+      "id": "36",
+      "number": 36,
+      "nameCs": "Houby s rýží",
+      "nameVi": "Nấm và cơm",
+      "nameEn": "Mushroom with Rice",
+      "category": "main",
+      "description": "",
+      "price": null,
+      "currency": "CZK",
+      "portion": "250 g",
+      "variants": [
+        {
+          "nameCs": "Kuřecí maso",
+          "price": 175,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Vepřové maso",
+          "price": 175,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Hovězí maso",
+          "price": 185,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Krevety",
+          "price": 195,
+          "allergens": [
+            2
+          ],
+          "image": null
+        },
+        {
+          "nameCs": "Kachní maso",
+          "price": 245,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Tofu",
+          "price": 175,
+          "allergens": [
+            6
+          ],
+          "image": null
+        }
+      ],
+      "allergens": [],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-09.jpg",
+      "review": []
+    },
+    {
+      "id": "37",
+      "number": 37,
+      "nameCs": "Bún chả – grilované vepřové maso s rýžovými nudlemi",
+      "nameVi": "Bún chả",
+      "nameEn": "Grilled Pork with Rice Noodles, Salad and Sauce",
+      "category": "main",
+      "description": "",
+      "price": 189,
+      "currency": "CZK",
+      "portion": "250 g",
+      "variants": [],
+      "allergens": [],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-09.jpg",
+      "review": []
+    },
+    {
+      "id": "38",
+      "number": 38,
+      "nameCs": "Po thajsku se zeleninou a rýží",
+      "nameVi": "Món Thái với rau và cơm",
+      "nameEn": "Thai Style with Vegetables and Rice",
+      "category": "main",
+      "description": "",
+      "price": null,
+      "currency": "CZK",
+      "portion": "250 g",
+      "variants": [
+        {
+          "nameCs": "Kuřecí maso",
+          "price": 179,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Vepřové maso",
+          "price": 185,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Hovězí maso",
+          "price": 190,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Krevety",
+          "price": 195,
+          "allergens": [
+            2
+          ],
+          "image": null
+        },
+        {
+          "nameCs": "Kachní maso",
+          "price": 245,
+          "allergens": [],
+          "image": null
+        },
+        {
+          "nameCs": "Tofu",
+          "price": 179,
+          "allergens": [
+            6
+          ],
+          "image": null
+        }
+      ],
+      "allergens": [],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-09.jpg",
+      "review": []
+    },
+    {
+      "id": "rice",
+      "number": null,
+      "nameCs": "Bílá rýže",
+      "nameVi": "Cơm trắng",
+      "nameEn": "White Rice",
+      "category": "sides",
+      "description": "",
+      "price": 45,
+      "currency": "CZK",
+      "portion": "120 g",
+      "variants": [],
+      "allergens": [],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-08.jpg",
+      "review": []
+    },
+    {
+      "id": "fries",
+      "number": null,
+      "nameCs": "Hranolky",
+      "nameVi": "Khoai tây chiên",
+      "nameEn": "French Fries",
+      "category": "sides",
+      "description": "",
+      "price": 45,
+      "currency": "CZK",
+      "portion": "120 g",
+      "variants": [],
+      "allergens": [],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-08.jpg",
+      "review": []
+    },
+    {
+      "id": "croquettes",
+      "number": null,
+      "nameCs": "Krokety",
+      "nameVi": "Khoai tây viên chiên",
+      "nameEn": "Croquettes",
+      "category": "sides",
+      "description": "",
+      "price": 50,
+      "currency": "CZK",
+      "portion": "120 g",
+      "variants": [],
+      "allergens": [],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-08.jpg",
+      "review": []
+    },
+    {
+      "id": "noodles",
+      "number": null,
+      "nameCs": "Nudle",
+      "nameVi": "Mì",
+      "nameEn": "Noodles",
+      "category": "sides",
+      "description": "",
+      "price": 65,
+      "currency": "CZK",
+      "portion": "120 g",
+      "variants": [],
+      "allergens": [
+        1
+      ],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-08.jpg",
+      "review": []
+    },
+    {
+      "id": "sauce",
+      "number": null,
+      "nameCs": "Kečup / Tatarka",
+      "nameVi": "Tương cà / Sốt tartar",
+      "nameEn": "Ketchup / Tartar Sauce",
+      "category": "sides",
+      "description": "",
+      "price": 18,
+      "currency": "CZK",
+      "portion": "20 g",
+      "variants": [],
+      "allergens": [
+        3
+      ],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-08.jpg",
+      "review": []
+    },
+    {
+      "id": "chilli",
+      "number": null,
+      "nameCs": "Chili",
+      "nameVi": "Tương ớt",
+      "nameEn": "Chilli Sauce",
+      "category": "sides",
+      "description": "",
+      "price": 10,
+      "currency": "CZK",
+      "portion": "10 g",
+      "variants": [],
+      "allergens": [],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-08.jpg",
+      "review": []
+    },
+    {
+      "id": "hoisin",
+      "number": null,
+      "nameCs": "Hoisin omáčka",
+      "nameVi": "Tương đen",
+      "nameEn": "Hoisin Sauce",
+      "category": "sides",
+      "description": "",
+      "price": 30,
+      "currency": "CZK",
+      "portion": "30 g",
+      "variants": [],
+      "allergens": [
+        6
+      ],
+      "image": null,
+      "imageVariant": null,
+      "source": "assets/menu-08.jpg",
+      "review": []
+    }
+  ],
+  "packaging": [
+    {
+      "nameCs": "Malá krabice s sebou",
+      "price": 8
+    },
+    {
+      "nameCs": "Velká krabice s sebou",
+      "price": 12
+    }
+  ]
+}

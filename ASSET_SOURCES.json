@@ -1,0 +1,57 @@
+{
+  "localFiles": {
+    "interior.webp": "da935abf34db1cc5c919e10f26255faba29fd629.jpg",
+    "exterior.webp": "6f757eb6c26e69bc8378a68edc13a996308f7571.jpg",
+    "exterior-alt.webp": "dc587478fd51df1d8681820c356affd6fbe3e7ac.jpg",
+    "menu-09.jpg": "c8c81d31e9187942fb8cdd5455567489d8d910b0.jpg"
+  },
+  "facebookAssets": {
+    "rice-noodles.webp": {
+      "source": "https://www.facebook.com/photo.php?fbid=1013354267151494&set=pb.100054307909398.-2207520000&type=3",
+      "caption": "Smažené rýžové nudle s vepřovým masem a zeleninou pouze za 145 Kč! Obohacené asijskou vůní!"
+    },
+    "crispy-duck.webp": {
+      "source": "https://www.facebook.com/photo.php?fbid=1013302247156696&set=pb.100054307909398.-2207520000&type=3",
+      "caption": "Křupavá kachna s rýží, omáčkou a salátem. Výborné a to pouze za 200 Kč! Jedna z nejoblíbenějších jídel našeho menu!"
+    },
+    "beef-salad.webp": {
+      "source": "https://www.facebook.com/photo.php?fbid=817500800070176&set=pb.100054307909398.-2207520000&type=3",
+      "caption": ""
+    },
+    "shared-table.webp": {
+      "source": "https://www.facebook.com/photo.php?fbid=817500726736850&set=pb.100054307909398.-2207520000&type=3",
+      "caption": ""
+    },
+    "room.webp": {
+      "source": "https://www.facebook.com/photo.php?fbid=791504049336518&set=pb.100054307909398.-2207520000&type=3",
+      "caption": ""
+    },
+    "room-alt.webp": {
+      "source": "https://www.facebook.com/photo.php?fbid=791504046003185&set=pb.100054307909398.-2207520000&type=3",
+      "caption": ""
+    },
+    "room-bathroom.webp": {
+      "source": "https://www.facebook.com/photo.php?fbid=791504056003184&set=pb.100054307909398.-2207520000&type=3",
+      "caption": ""
+    },
+    "interior-day.webp": {
+      "source": "https://www.facebook.com/photo/?fbid=600185575135034&set=a.600185531801705",
+      "caption": ""
+    },
+    "interior-event.webp": {
+      "source": "https://www.facebook.com/photo.php?fbid=1592621115891470&set=pb.100054307909398.-2207520000&type=3",
+      "caption": ""
+    },
+    "table-detail.webp": {
+      "source": "https://www.facebook.com/photo.php?fbid=891079082712347&set=pb.100054307909398.-2207520000&type=3",
+      "caption": ""
+    },
+    "interior-long.webp": {
+      "source": "https://www.facebook.com/photo.php?fbid=783639886789601&set=pb.100054307909398.-2207520000&type=3",
+      "caption": ""
+    }
+  },
+  "menuSource": "https://www.facebook.com/share/p/19qDzLxX78/",
+  "accommodationNotice": "https://www.facebook.com/100054307909398/posts/1458449992641917/",
+  "fresh-rolls.webp": "https://www.facebook.com/reel/1451673733369815/"
+}
