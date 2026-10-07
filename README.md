@@ -2,7 +2,7 @@
 
 Website tĩnh hoàn chỉnh nằm **ngay thư mục gốc**:
 
-- `index.html`: homepage theo bố cục NÂM, nội dung/ảnh Restaurace ASIA.
+- `index.html`: homepage với chữ lớn, ảnh món trong khung vòm và bố cục biên tập, nội dung/ảnh Restaurace ASIA.
 - `menu.html`: menu chỉ để đọc, không có chọn món, giỏ hàng hay thanh toán.
 - `styles.css`, `app.js`, `assets/`, `fonts/`, `data/`: tài nguyên website.
 - `.nojekyll`: cho GitHub Pages phục vụ trực tiếp các file tĩnh.
@@ -24,4 +24,5 @@ Thông tin liên hệ/giờ mở cửa chỉnh trong `index.html` và đoạn he
 `website/` và `asia-site.tar.gz` giữ phiên bản trước. Bản mới trong root dùng cho GitHub Pages; không phụ thuộc deployment trước đó.
 
 Nguồn ảnh: `ASSET_SOURCES.json`. Những dữ liệu cần chủ quán xác nhận: `CONTENT_REVIEW.md`. Phân tích reference và mapping: `DESIGN_REFERENCE.md`.
-# -Restaurace-ASIA
+
+Bản thiết kế mới dùng Bricolage Grotesque + Manrope hỗ trợ tiếng Séc, ảnh thật và các mảng xanh–kem–sage–gỗ. Đã kiểm tra cả homepage/menu ở 375, 390, 430, 768, 1440 và 1920px. Chi tiết: `QA_REPORT.md`.

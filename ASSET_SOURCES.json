@@ -53,5 +53,22 @@
   },
   "menuSource": "https://www.facebook.com/share/p/19qDzLxX78/",
   "accommodationNotice": "https://www.facebook.com/100054307909398/posts/1458449992641917/",
-  "fresh-rolls.webp": "https://www.facebook.com/reel/1451673733369815/"
+  "fresh-rolls.webp": "https://www.facebook.com/reel/1451673733369815/",
+  "createdArtwork": {
+    "asia-seal.svg": "Original SVG bowl/chopsticks and restaurant-name seal, drawn for this website.",
+    "herb-line.svg": "Original SVG herb line drawing, drawn for this website.",
+    "favicon.svg": "Original ASIA initial, drawn for this website."
+  },
+  "fonts": {
+    "Bricolage Grotesque": {
+      "source": "https://github.com/google/fonts/tree/main/ofl/bricolagegrotesque",
+      "license": "fonts/Bricolage-OFL.txt",
+      "file": "fonts/Bricolage.woff2"
+    },
+    "Manrope": {
+      "source": "https://github.com/google/fonts/tree/main/ofl/manrope",
+      "license": "fonts/Manrope-LICENSE.txt",
+      "files": "fonts/body-400.woff2 through body-700.woff2"
+    }
+  }
 }

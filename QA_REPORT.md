@@ -1,39 +1,38 @@
-# Restaurace ASIA — root website QA
+# Restaurace ASIA — visual redesign QA
 
-Revision: 7 October 2026. Delivery: static GitHub Pages files in workspace root. The former website/ implementation is retained as a prior version.
+Revision: 7 October 2026. Static website in the workspace root, ready for GitHub Pages. The former website/ implementation and the previous root design are retained.
 
-## Reference and visual review
-- NÂM homepage observed in Chromium at desktop 1440 px and a real mobile browser configuration (iPhone 13, 390 px).
-- Fresh code, drawn ASIA identity and ASIA restaurant photographs. No NÂM source, photographs, logo, menu or business data reused.
-- Full homepage screenshots reviewed vertically, plus close views of the hero, introduction, cream menu and warm accommodation block.
-- Final screenshots: research/root-qa/index-{width}.png and menu-{width}.png.
-- Compositions: typographic badge hero, text/tall food photo, plain restaurant menu rows, full-width horizontal photography, offset food collage, warm accommodation feature, outlined contact panel overlapping photographs.
+## Visual review
+- Reviewed the homepage vertically and detailed desktop/mobile views of the hero, menu excerpt, social photography, accommodation and contact.
+- Screenshots and measured results: research/art-qa/. Results: results.json.
+- Composition: large expressive type and arched real-food photograph, off-white introduction with circular dish photography, sage menu rows, deep-green restaurant and horizontal gallery, offset food spread, warm accommodation, open contact layout and oversized footer wordmark.
+- A small original bowl seal and herb line drawing replace the earlier collection of unrelated badges. No stock or generated restaurant photographs.
+- Bricolage Grotesque display font and Manrope body font are hosted locally. Czech lowercase and uppercase diacritics checked in the source fonts; browser rendering checked.
 
 ## Browser checks — passed
-Both index.html and menu.html at **375, 390, 430, 768, 1440 and 1920 px**:
-- HTTP 200, no uncaught JavaScript errors.
-- Document scrollWidth equals viewport width; no unintended overflow.
-- Visible images load; horizontal-gallery images also verified. Mobile-hidden secondary contact photograph does not load unnecessarily.
-- Locally hosted Arsenal renders Czech characters. All four source font files checked for ě š č ř ž ý á í é ů ú ď ť ň and uppercase equivalents before WOFF2 conversion.
-- All 45 menu entries displayed in every menu viewport.
+Both index.html and menu.html at 375, 390, 430, 768, 1440 and 1920 px:
+- HTTP 200; no uncaught JavaScript errors.
+- Document scrollWidth equals viewport width; no unintended horizontal overflow.
+- All restaurant images, including lazy gallery images, load.
+- All 45 menu entries appear at every tested width.
+- Prices and category navigation remain legible on mobile.
 
 Interaction checks:
-- Mobile menu opens, closes after choosing an anchor, supports Escape and keyboard focus cycling.
-- Horizontal gallery opens an accessible native dialog; next photo, arrow keys and Escape work.
-- Video activation inserts the supplied restaurant Facebook reel iframe, with autoplay=false. Closing removes the iframe. A direct Facebook link is always available.
-- Menu category links tested on 1440 and 390 px: soups, main dishes and desserts jump below the sticky navigation. Menu category anchors use unique IDs.
-- Desktop navigation spacing refined against the reference; mobile video button overlap removed; contact badge kept inside the viewport.
+- Mobile navigation opens and closes after selecting an anchor; Escape and keyboard focus handling work.
+- Gallery dialog opens; arrow keys, next photo and Escape work.
+- Clicking the video inserts the correct restaurant Facebook reel with autoplay=false. Closing removes the iframe; a direct Facebook link remains available.
+- Menu categories use unique anchor IDs and sticky horizontally scrollable navigation. The menu is read-only.
+- HTML anchor targets and duplicate IDs checked in both pages.
 
-## GitHub Pages checks — passed
-Served from /Restaurace%20ASIA/ under a parent-directory server to simulate a project URL. Both pages and all referenced local resources/links returned HTTP 200, including the menu PDF. CSS, JavaScript, SVG, images, fonts and document links use relative paths.
+## GitHub Pages
+All website paths are relative. A parent-directory server simulates a repository subpath; both pages and their referenced local resources/links load, including the original menu PDF. The ZIP has index.html at its root; no build or backend is required.
 
 ## Content checks
-- 45 entries: 38 numbered dishes + 7 sides; 68 protein/option price rows; 8 actual categories; 2 packaging charges.
-- Original menu PDF contains all 8 pages, including the separately supplied final page.
-- Names, portions, prices and declared allergens come from data/menu.json. No invented prices for cropped items #21/#22.
-- Word remains authoritative for daily 10:30–21:00, phone +420 770 646 639, email and approximately 55 seats.
-- Read-only menu, telephone ordering; no cart, detailed dish selection, checkout or invented payment backend.
-- Accommodation: factual short introduction, actual room photograph marked 2023, phone and supplied Facebook post.
+- 45 entries: 38 numbered dishes + 7 sides; 68 variant/price rows; 8 source categories; 2 packaging charges.
+- Menu PDF includes all 8 supplied pages. Cropped prices for #21/#22 remain unknown rather than invented.
+- Word supplies daily 10:30–21:00, +420 770 646 639, email and approximately 55 seats.
+- Telephone ordering; no cart, dish selectors, checkout or payment claims.
+- Accommodation uses the actual room photo marked 2023, the supplied Facebook post and telephone contact.
 
-## Practical limits
-Facebook can restrict its embedded player or require login; the direct reel link remains available. Owner-confirmation items remain in CONTENT_REVIEW.md. The website is ready for GitHub Pages; no GitHub repository/remote was supplied, so no GitHub publication was performed.
+## Limits
+Facebook may restrict its embedded player; the direct reel link is available. CONTENT_REVIEW.md records owner-confirmation items. The tested static files are prepared for branch-based GitHub Pages deployment from the repository root.
