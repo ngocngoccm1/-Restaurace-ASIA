@@ -3,7 +3,7 @@
 Website tĩnh hoàn chỉnh nằm **ngay thư mục gốc**:
 
 - `index.html`: homepage với chữ lớn, ảnh món trong khung vòm và bố cục biên tập, nội dung/ảnh Restaurace ASIA.
-- `menu.html`: menu chỉ để đọc, không có chọn món, giỏ hàng hay thanh toán.
+- `menu.html`: menu đọc với ảnh bên cạnh từng món, không có giỏ hàng hay thanh toán.
 - `styles.css`, `app.js`, `assets/`, `fonts/`, `data/`: tài nguyên website.
 - `.nojekyll`: cho GitHub Pages phục vụ trực tiếp các file tĩnh.
 
@@ -26,3 +26,9 @@ Thông tin liên hệ/giờ mở cửa chỉnh trong `index.html` và đoạn he
 Nguồn ảnh: `ASSET_SOURCES.json`. Những dữ liệu cần chủ quán xác nhận: `CONTENT_REVIEW.md`. Phân tích reference và mapping: `DESIGN_REFERENCE.md`.
 
 Bản thiết kế mới dùng Bricolage Grotesque + Manrope hỗ trợ tiếng Séc, ảnh thật và các mảng xanh–kem–sage–gỗ. Đã kiểm tra cả homepage/menu ở 375, 390, 430, 768, 1440 và 1920px. Chi tiết: `QA_REPORT.md`.
+
+## Cập nhật ảnh, menu và phòng nghỉ — 25/10/2026
+
+- Mục ubytování: 6 ảnh thật do chủ quán gửi, video MP4 xem trực tiếp, thông tin căn hộ 40 m² / 4 giường, bếp, phòng tắm và WC chung, bữa sáng, giá 750 / 650 / 550 Kč.
+- Mỗi món trong 45 mục menu có ảnh bên cạnh; 43 ảnh AI minh họa được ghi rõ, 2 ảnh thật của nhà hàng được giữ lại. Ảnh tối ưu WebP, lưu cục bộ trong `assets/dishes/`. Prompt và công cụ tạo ảnh nằm trong `data/food-image-prompts.json`.
+- File gốc `index.html` và mọi tài nguyên dùng đường dẫn tương đối, không cần build khi đưa lên GitHub Pages.

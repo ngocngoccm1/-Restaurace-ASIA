@@ -1,38 +1,27 @@
-# Restaurace ASIA — visual redesign QA
+# Website update QA — 25 October 2026
 
-Revision: 7 October 2026. Static website in the workspace root, ready for GitHub Pages. The former website/ implementation and the previous root design are retained.
+## Completed update
+- Six supplied apartment photographs and original 10.77-second portrait MP4 are local assets. Photo viewer navigates only within the six apartment photos when opened from accommodation.
+- Apartment: 40 m², one bedroom with four beds, combined living room/kitchen, shared bathroom and WC, stove, microwave, breakfast included. Room rates: 750 / 650 / 550 Kč per person/night, with telephone reservations.
+- All 45 menu entries and four homepage excerpts have adjacent dish images. Two restaurant images are retained; 43 individually generated AI illustrations are clearly labeled. Pictured protein variants are captioned.
+- Source menu prices, portions, allergens and all variant prices are unchanged. Unreadable prices remain “Cena na dotaz”.
+- Supplied allergen scan is linked and transcribed in an expandable list.
 
-## Visual review
-- Reviewed the homepage vertically and detailed desktop/mobile views of the hero, menu excerpt, social photography, accommodation and contact.
-- Screenshots and measured results: research/art-qa/. Results: results.json.
-- Composition: large expressive type and arched real-food photograph, off-white introduction with circular dish photography, sage menu rows, deep-green restaurant and horizontal gallery, offset food spread, warm accommodation, open contact layout and oversized footer wordmark.
-- A small original bowl seal and herb line drawing replace the earlier collection of unrelated badges. No stock or generated restaurant photographs.
-- Bricolage Grotesque display font and Manrope body font are hosted locally. Czech lowercase and uppercase diacritics checked in the source fonts; browser rendering checked.
+## Passed browser checks
+Both homepage and menu at 320, 375, 390, 430, 768, 1024, 1440 and 1920 px:
+- HTTP 200, no uncaught JS errors or local resource failures.
+- No document horizontal overflow; all local images load.
+- All 45 menu items have images. Pho image appears beside its title at every width.
+- Menu category navigation and allergen disclosure work.
 
-## Browser checks — passed
-Both index.html and menu.html at 375, 390, 430, 768, 1440 and 1920 px:
-- HTTP 200; no uncaught JavaScript errors.
-- Document scrollWidth equals viewport width; no unintended horizontal overflow.
-- All restaurant images, including lazy gallery images, load.
-- All 45 menu entries appear at every tested width.
-- Prices and category navigation remain legible on mobile.
+Interactions at 390 px: mobile navigation, accommodation anchor, six-photo viewer, next photograph, Escape close and native MP4 playback passed. Actual video dimensions: 720 × 1280. The final portrait video layout was additionally checked at 320, 390, 768 and 1440 px, including playback and no horizontal overflow.
 
-Interaction checks:
-- Mobile navigation opens and closes after selecting an anchor; Escape and keyboard focus handling work.
-- Gallery dialog opens; arrow keys, next photo and Escape work.
-- Clicking the video inserts the correct restaurant Facebook reel with autoplay=false. Closing removes the iframe; a direct Facebook link remains available.
-- Menu categories use unique anchor IDs and sticky horizontally scrollable navigation. The menu is read-only.
-- HTML anchor targets and duplicate IDs checked in both pages.
+Screenshots and measurements: research/update-qa/. Food image subjects reviewed via contact sheet; room, menu and final video layout visually inspected on desktop and phone.
 
-## GitHub Pages
-All website paths are relative. A parent-directory server simulates a repository subpath; both pages and their referenced local resources/links load, including the original menu PDF. The ZIP has index.html at its root; no build or backend is required.
+## GitHub Pages checks
+- index.html remains in repository root; .nojekyll retained.
+- All local resources, internal anchors and duplicate IDs validated.
+- Parent-directory server simulated /Restaurace%20ASIA/ repository subpath: homepage, menu navigation and MP4 request passed.
+- ZIP refreshed with index.html at ZIP root and all current website assets. No build/backend required.
 
-## Content checks
-- 45 entries: 38 numbered dishes + 7 sides; 68 variant/price rows; 8 source categories; 2 packaging charges.
-- Menu PDF includes all 8 supplied pages. Cropped prices for #21/#22 remain unknown rather than invented.
-- Word supplies daily 10:30–21:00, +420 770 646 639, email and approximately 55 seats.
-- Telephone ordering; no cart, dish selectors, checkout or payment claims.
-- Accommodation uses the actual room photo marked 2023, the supplied Facebook post and telephone contact.
-
-## Limits
-Facebook may restrict its embedded player; the direct reel link is available. CONTENT_REVIEW.md records owner-confirmation items. The tested static files are prepared for branch-based GitHub Pages deployment from the repository root.
+This is a local project update, prepared for the user's GitHub Pages deployment.

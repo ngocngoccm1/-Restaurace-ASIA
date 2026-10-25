@@ -32,19 +32,21 @@
   const photos = [...document.querySelectorAll('[data-photo]')];
   const viewer = document.querySelector('.photo-dialog');
   let photoIndex = 0;
+  let activePhotos = photos;
   const showPhoto = (index) => {
-    if (!viewer || !photos.length) return;
-    photoIndex = (index + photos.length) % photos.length;
-    const source = photos[photoIndex];
+    if (!viewer || !activePhotos.length) return;
+    photoIndex = (index + activePhotos.length) % activePhotos.length;
+    const source = activePhotos[photoIndex];
     const image = viewer.querySelector('.viewer-photo');
     image.src = source.dataset.photo;
     image.alt = source.dataset.caption;
     viewer.querySelector('#viewer-caption').textContent = source.dataset.caption;
-    viewer.querySelector('.viewer-count').textContent = `${photoIndex + 1} / ${photos.length}`;
+    viewer.querySelector('.viewer-count').textContent = `${photoIndex + 1} / ${activePhotos.length}`;
   };
-  photos.forEach((button, index) => button.addEventListener('click', () => {
+  photos.forEach((button) => button.addEventListener('click', () => {
     if (!viewer?.showModal) { window.open(button.dataset.photo, '_blank', 'noopener'); return; }
-    showPhoto(index); viewer.showModal(); document.body.classList.add('modal-open');
+    activePhotos = photos.filter((photo) => photo.dataset.gallery === button.dataset.gallery);
+    showPhoto(activePhotos.indexOf(button)); viewer.showModal(); document.body.classList.add('modal-open');
   }));
   document.querySelectorAll('[data-viewer-step]').forEach((button) => button.addEventListener('click', () => showPhoto(photoIndex + Number(button.dataset.viewerStep))));
   viewer?.addEventListener('keydown', (event) => {

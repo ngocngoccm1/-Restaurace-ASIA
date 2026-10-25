@@ -70,5 +70,26 @@
       "license": "fonts/Manrope-LICENSE.txt",
       "files": "fonts/body-400.woff2 through body-700.woff2"
     }
-  }
+  },
+  "userProvidedAccommodation": {
+    "source": "User attachments, 2026-10-25",
+    "files": [
+      "assets/stay/apartment-tour.mp4",
+      "assets/stay/bedroom-four-beds.jpg",
+      "assets/stay/bedroom-twin.jpg",
+      "assets/stay/bedroom-window.jpg",
+      "assets/stay/kitchen.jpg",
+      "assets/stay/living-kitchen.jpg",
+      "assets/stay/shared-bathroom.jpg"
+    ],
+    "description": "Six unaltered apartment photos and original MP4 tour; apartment description, room rates and breakfast supplied by owner."
+  },
+  "menuIllustrations": {
+    "generator": "Built-in image_gen",
+    "assets": "assets/dishes/*.webp",
+    "count": 43,
+    "prompts": "data/food-image-prompts.json",
+    "disclosure": "Each AI image is captioned Ilustrační foto; menu introduction explains AI generation and possible serving differences. Dishes 4 and 17 retain restaurant photographs."
+  },
+  "allergenScan": "assets/allergens.jpg — supplied by user on 2026-10-25"
 }

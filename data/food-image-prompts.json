@@ -1,0 +1,221 @@
+{
+  "generator": "Built-in image_gen",
+  "purpose": "Illustrative menu photographs, labeled as AI illustrations in menu.html; restaurant photos for dishes 4 and 17 retained",
+  "prompts": [
+    {
+      "name": "pho",
+      "prompt": "Use case: ads-marketing. Generate one photorealistic appetizing restaurant menu photograph of Vietnamese phở bò: a generous ceramic bowl of clear amber broth, flat white rice noodles, thin beef slices, fresh scallions, cilantro, onion, basil, lime alongside. Shot 45 degrees, entire bowl centered with margin, warm natural restaurant light, dark walnut tabletop, sophisticated forest green and cream styling, realistic food texture. Square composition. No text, no watermark, no collage. Illustrative food photograph for Czech Vietnamese restaurant menu.",
+      "output": "assets/dishes/13.webp"
+    },
+    {
+      "name": "1",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: chicken glass noodle soup, translucent thin mung-bean vermicelli, shredded chicken, scallion in clear broth. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/1.webp"
+    },
+    {
+      "name": "2",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: Chinese hot and sour Beijing soup, thick reddish brown broth, egg ribbons, tofu slivers, mushrooms. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/2.webp"
+    },
+    {
+      "name": "3",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: clear vegetable soup with carrots, cabbage, broccoli and herbs, no meat. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/3.webp"
+    },
+    {
+      "name": "5",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: three golden Vietnamese fried spring rolls (nem rán), cut one open showing pork and glass noodle filling, lettuce and dipping sauce. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/5.webp"
+    },
+    {
+      "name": "6",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: ten small golden vegetable mini spring rolls, sweet chili dipping sauce, no meat. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/6.webp"
+    },
+    {
+      "name": "7",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: five golden coconut-crusted fried shrimp with visible tails, sweet chili sauce. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/7.webp"
+    },
+    {
+      "name": "8",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: three large panko breaded fried shrimp with tails, lettuce and dipping sauce. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/8.webp"
+    },
+    {
+      "name": "9",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: five steamed translucent har gow shrimp dumplings in a bamboo basket. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/9.webp"
+    },
+    {
+      "name": "10",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: a hamburger bun filled with crispy fried breaded cheese patty, lettuce, tomato, tartar sauce; no meat burger. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/10.webp"
+    },
+    {
+      "name": "11",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: fresh mixed vegetable salad, lettuce, tomato, cucumber, shredded carrot, no meat. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/11.webp"
+    },
+    {
+      "name": "12",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: grilled chicken salad, chicken breast strips on lettuce, cucumber, tomatoes and carrot. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/12.webp"
+    },
+    {
+      "name": "14",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: Vietnamese bún bò Nam Bộ, dry white rice vermicelli with stir-fried beef, peanuts, herbs, lettuce, crispy shallots, light dressing, no broth. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/14.webp"
+    },
+    {
+      "name": "15",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: Vietnamese stir-fried yellow wheat egg noodles with chicken strips, carrots, cabbage and scallion. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/15.webp"
+    },
+    {
+      "name": "16",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: Vietnamese golden egg fried rice with chicken, carrot, peas, egg and scallion. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/16.webp"
+    },
+    {
+      "name": "18",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: Vietnamese stir-fried translucent glass noodles with chicken, carrots, cabbage and scallion. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/18.webp"
+    },
+    {
+      "name": "19",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: Chinese kung pao chicken, diced chicken, roasted peanuts, dried red chili and colorful peppers in glossy brown sauce, side of white rice. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/19.webp"
+    },
+    {
+      "name": "20",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: stir-fried chicken strips and colorful mixed vegetables with white steamed rice. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/20.webp"
+    },
+    {
+      "name": "21",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: spicy chicken and vegetables with red chili, glossy spicy red-brown sauce and white rice. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/21.webp"
+    },
+    {
+      "name": "22",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: crispy roast duck sliced showing golden skin, stir-fried vegetables and a mound of white rice on a ceramic plate. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/22.webp"
+    },
+    {
+      "name": "23",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: creamy golden chicken curry with vegetables, served with white rice. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/23.webp"
+    },
+    {
+      "name": "24",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: one large golden breaded chicken schnitzel with French fries and a lemon wedge. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/24.webp"
+    },
+    {
+      "name": "25",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: Czech smažený sýr: one thick rectangle of golden breaded fried cheese cut revealing melted white cheese, French fries, tartar sauce. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/25.webp"
+    },
+    {
+      "name": "26",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: Asian fragrant crispy tender chicken breast sliced into strips, brown sauce, white rice. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/26.webp"
+    },
+    {
+      "name": "27",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: golden fried chicken nuggets with French fries and small ketchup dish. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/27.webp"
+    },
+    {
+      "name": "28",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: three kinds of stir fried meat: chicken, pork and beef with vegetables, served sizzling on black cast iron hotplate with a bowl of rice next to it. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/28.webp"
+    },
+    {
+      "name": "29",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: sliced crispy golden roast duck and vegetables on a sizzling black cast iron hotplate, bowl of white rice alongside. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/29.webp"
+    },
+    {
+      "name": "30",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: shrimp and tofu cubes with colorful vegetables on black cast iron hotplate, side bowl of white rice. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/30.webp"
+    },
+    {
+      "name": "31",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: vegetarian stir fried vegetables: broccoli, cabbage, carrot, bell peppers with white rice, no meat, no tofu. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/31.webp"
+    },
+    {
+      "name": "32",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: golden tofu cubes with stir-fried broccoli, carrots, peppers and white rice, no meat. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/32.webp"
+    },
+    {
+      "name": "33",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: golden battered fried banana pieces on small cream ceramic dessert plate, light honey drizzle, no ice cream. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/33.webp"
+    },
+    {
+      "name": "34",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: a small ceramic bowl piled with pale airy Vietnamese shrimp crackers. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/34.webp"
+    },
+    {
+      "name": "35",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: chicken and vegetables in vivid orange sweet and sour sauce, white rice on side. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/35.webp"
+    },
+    {
+      "name": "36",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: stir-fried chicken with assorted mushrooms, glossy brown sauce and white rice. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/36.webp"
+    },
+    {
+      "name": "37",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: Vietnamese bún chả: chargrilled pork patties and pork belly pieces in small bowl of amber fish-sauce dressing, white rice vermicelli, fresh lettuce and herbs arranged alongside. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/37.webp"
+    },
+    {
+      "name": "38",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: Thai-style stir fried chicken with bell peppers, basil, chili, vegetables and white rice. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/38.webp"
+    },
+    {
+      "name": "rice",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: a small ceramic bowl of fluffy steamed white jasmine rice. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/rice.webp"
+    },
+    {
+      "name": "fries",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: a small ceramic plate of golden French fries. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/fries.webp"
+    },
+    {
+      "name": "croquettes",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: a small ceramic plate of golden spherical potato croquettes. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/croquettes.webp"
+    },
+    {
+      "name": "noodles",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: a small ceramic bowl of plain cooked golden wheat egg noodles. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/noodles.webp"
+    },
+    {
+      "name": "sauce",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: two small ceramic sauce ramekins beside each other, one red tomato ketchup and one white tartar sauce. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/sauce.webp"
+    },
+    {
+      "name": "chilli",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: one small ceramic ramekin of glossy red chili dipping sauce with chili seeds. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/chilli.webp"
+    },
+    {
+      "name": "hoisin",
+      "prompt": "Use case: ads-marketing. Asset type: single restaurant menu food photograph. Subject: one small ceramic ramekin of thick dark brown hoisin sauce. Photorealistic appetizing food, entire serving centered with generous margin, 45 degree overhead camera, simple cream ceramic tableware on dark walnut tabletop, subtle forest green linen at one edge, warm natural light, crisp texture, realistic Vietnamese-Czech restaurant plating. Square composition. No text, no labels, no collage, no logo, no watermark. This is one illustrative menu image.",
+      "output": "assets/dishes/hoisin.webp"
+    }
+  ]
+}

@@ -50,10 +50,13 @@
       "portion": "150 ml",
       "variants": [],
       "allergens": [],
-      "image": null,
+      "image": "assets/dishes/1.webp",
       "imageVariant": null,
       "source": "assets/menu-02.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Polévka se skleněnými nudlemi a kuřecím masem",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "2",
@@ -71,10 +74,13 @@
         1,
         3
       ],
-      "image": null,
+      "image": "assets/dishes/2.webp",
       "imageVariant": null,
       "source": "assets/menu-02.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Pekingská polévka",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "3",
@@ -89,10 +95,13 @@
       "portion": "150 ml",
       "variants": [],
       "allergens": [],
-      "image": null,
+      "image": "assets/dishes/3.webp",
       "imageVariant": null,
       "source": "assets/menu-02.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Zeleninová polévka",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "4",
@@ -114,7 +123,9 @@
       "imageVariant": null,
       "source": "assets/menu-02.jpg",
       "review": [],
-      "imageNote": "Fotografie z videa restaurace. Pictured plating may differ from the current 2-piece serving."
+      "imageNote": "Fotografie z videa restaurace. Pictured plating may differ from the current 2-piece serving.",
+      "imageType": "restaurant",
+      "imageAlt": "Čerstvé jarní závitky"
     },
     {
       "id": "5",
@@ -132,10 +143,13 @@
         1,
         3
       ],
-      "image": null,
+      "image": "assets/dishes/5.webp",
       "imageVariant": null,
       "source": "assets/menu-02.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Smažené závitky",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "6",
@@ -153,10 +167,13 @@
         1,
         3
       ],
-      "image": null,
+      "image": "assets/dishes/6.webp",
       "imageVariant": null,
       "source": "assets/menu-02.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Mini veganské závitky",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "7",
@@ -175,10 +192,13 @@
         2,
         3
       ],
-      "image": null,
+      "image": "assets/dishes/7.webp",
       "imageVariant": null,
       "source": "assets/menu-02.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Smažené krevety obalované kokosovou strouhankou",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "8",
@@ -197,10 +217,13 @@
         2,
         3
       ],
-      "image": null,
+      "image": "assets/dishes/8.webp",
       "imageVariant": null,
       "source": "assets/menu-02.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Smažené obalované krevety",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "9",
@@ -217,10 +240,13 @@
       "allergens": [
         2
       ],
-      "image": null,
+      "image": "assets/dishes/9.webp",
       "imageVariant": null,
       "source": "assets/menu-02.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Krevetové knedlíčky",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "10",
@@ -239,10 +265,13 @@
         3,
         7
       ],
-      "image": null,
+      "image": "assets/dishes/10.webp",
       "imageVariant": null,
       "source": "assets/menu-02.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Hamburger se smaženým sýrem",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "11",
@@ -257,10 +286,13 @@
       "portion": "130 g",
       "variants": [],
       "allergens": [],
-      "image": null,
+      "image": "assets/dishes/11.webp",
       "imageVariant": null,
       "source": "assets/menu-03.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Míchaný salát",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "12",
@@ -275,10 +307,13 @@
       "portion": "130 g",
       "variants": [],
       "allergens": [],
-      "image": null,
+      "image": "assets/dishes/12.webp",
       "imageVariant": null,
       "source": "assets/menu-03.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Kuřecí salát",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "13",
@@ -306,10 +341,13 @@
         }
       ],
       "allergens": [],
-      "image": null,
-      "imageVariant": null,
+      "image": "assets/dishes/13.webp",
+      "imageVariant": "Hovězí maso",
       "source": "assets/menu-03.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Nudlová polévka Pho / Bun — Hovězí maso",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "14",
@@ -350,12 +388,15 @@
       "allergens": [
         5
       ],
-      "image": null,
-      "imageVariant": null,
+      "image": "assets/dishes/14.webp",
+      "imageVariant": "Hovězí maso",
       "source": "assets/menu-03.jpg",
       "review": [
         "English protein labels contradict Czech labels in source. Czech labels preserved; confirm with owner."
-      ]
+      ],
+      "imageType": "ai-illustration",
+      "imageAlt": "Bun Nam Bo — Hovězí maso",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "15",
@@ -415,10 +456,13 @@
         3,
         6
       ],
-      "image": null,
-      "imageVariant": null,
+      "image": "assets/dishes/15.webp",
+      "imageVariant": "Kuřecí maso",
       "source": "assets/menu-03.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Smažené nudle — Kuřecí maso",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "16",
@@ -477,10 +521,13 @@
         1,
         3
       ],
-      "image": null,
-      "imageVariant": null,
+      "image": "assets/dishes/16.webp",
+      "imageVariant": "Kuřecí maso",
       "source": "assets/menu-04.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Smažená rýže — Kuřecí maso",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "17",
@@ -541,7 +588,9 @@
       "image": "assets/rice-noodles.webp",
       "imageVariant": "Vepřové maso",
       "source": "assets/menu-04.jpg",
-      "review": []
+      "review": [],
+      "imageType": "restaurant",
+      "imageAlt": "Smažené rýžové nudle — Vepřové maso"
     },
     {
       "id": "18",
@@ -599,10 +648,13 @@
       "allergens": [
         3
       ],
-      "image": null,
-      "imageVariant": null,
+      "image": "assets/dishes/18.webp",
+      "imageVariant": "Kuřecí maso",
       "source": "assets/menu-04.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Smažené skleněné nudle — Kuřecí maso",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "19",
@@ -656,10 +708,13 @@
         5,
         6
       ],
-      "image": null,
-      "imageVariant": null,
+      "image": "assets/dishes/19.webp",
+      "imageVariant": "Kuřecí maso",
       "source": "assets/menu-05.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Kung Pao s rýží — Kuřecí maso",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "20",
@@ -703,10 +758,13 @@
       "allergens": [
         6
       ],
-      "image": null,
-      "imageVariant": null,
+      "image": "assets/dishes/20.webp",
+      "imageVariant": "Kuřecí maso",
       "source": "assets/menu-05.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Restovaná zelenina s masem a rýží — Kuřecí maso",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "21",
@@ -762,12 +820,15 @@
         }
       ],
       "allergens": [],
-      "image": null,
-      "imageVariant": null,
+      "image": "assets/dishes/21.webp",
+      "imageVariant": "Kuřecí maso",
       "source": "assets/menu-05.jpg",
       "review": [
         "All variant prices cropped at right edge. Do not infer from visible prefixes."
-      ]
+      ],
+      "imageType": "ai-illustration",
+      "imageAlt": "Pikantní se zeleninou a rýží — Kuřecí maso",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "22",
@@ -785,12 +846,15 @@
         1,
         6
       ],
-      "image": null,
+      "image": "assets/dishes/22.webp",
       "imageVariant": null,
       "source": "assets/menu-05.jpg",
       "review": [
         "Price cropped in source. Historical food post price is not used. Photo shows rice, duck and salad, not current vegetables preparation; kept as general restaurant photography."
-      ]
+      ],
+      "imageType": "ai-illustration",
+      "imageAlt": "Křupavá kachna se zeleninou a rýží",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "23",
@@ -848,10 +912,13 @@
       "allergens": [
         7
       ],
-      "image": null,
-      "imageVariant": null,
+      "image": "assets/dishes/23.webp",
+      "imageVariant": "Kuřecí maso",
       "source": "assets/menu-06.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Kari se zeleninou a rýží — Kuřecí maso",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "24",
@@ -869,10 +936,13 @@
         1,
         3
       ],
-      "image": null,
+      "image": "assets/dishes/24.webp",
       "imageVariant": null,
       "source": "assets/menu-06.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Kuřecí řízek s hranolkami",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "25",
@@ -891,10 +961,13 @@
         3,
         7
       ],
-      "image": null,
+      "image": "assets/dishes/25.webp",
       "imageVariant": null,
       "source": "assets/menu-06.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Smažený sýr s hranolkami",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "26",
@@ -913,10 +986,13 @@
         3,
         6
       ],
-      "image": null,
+      "image": "assets/dishes/26.webp",
       "imageVariant": null,
       "source": "assets/menu-06.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Voňavé a křehké kuře s rýží",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "27",
@@ -934,10 +1010,13 @@
         1,
         3
       ],
-      "image": null,
+      "image": "assets/dishes/27.webp",
       "imageVariant": null,
       "source": "assets/menu-06.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Smažené kuřecí kousky s hranolkami",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "28",
@@ -954,10 +1033,13 @@
       "allergens": [
         6
       ],
-      "image": null,
+      "image": "assets/dishes/28.webp",
       "imageVariant": null,
       "source": "assets/menu-07.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "3 druhy masa se zeleninou a rýží",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "29",
@@ -974,10 +1056,13 @@
       "allergens": [
         6
       ],
-      "image": null,
+      "image": "assets/dishes/29.webp",
       "imageVariant": null,
       "source": "assets/menu-07.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Křupavá kachna se zeleninou a rýží",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "30",
@@ -995,10 +1080,13 @@
         2,
         6
       ],
-      "image": null,
+      "image": "assets/dishes/30.webp",
       "imageVariant": null,
       "source": "assets/menu-07.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Krevety s tofu, zeleninou a rýží",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "31",
@@ -1015,10 +1103,13 @@
       "allergens": [
         6
       ],
-      "image": null,
+      "image": "assets/dishes/31.webp",
       "imageVariant": null,
       "source": "assets/menu-07.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Restovaná zelenina s rýží",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "32",
@@ -1035,10 +1126,13 @@
       "allergens": [
         6
       ],
-      "image": null,
+      "image": "assets/dishes/32.webp",
       "imageVariant": null,
       "source": "assets/menu-07.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Restovaná zelenina s tofu a rýží",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "33",
@@ -1055,10 +1149,13 @@
       "allergens": [
         1
       ],
-      "image": null,
+      "image": "assets/dishes/33.webp",
       "imageVariant": null,
       "source": "assets/menu-08.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Smažený banán",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "34",
@@ -1075,10 +1172,13 @@
       "allergens": [
         2
       ],
-      "image": null,
+      "image": "assets/dishes/34.webp",
       "imageVariant": null,
       "source": "assets/menu-08.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Krevetové lupínky",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "35",
@@ -1137,10 +1237,13 @@
         }
       ],
       "allergens": [],
-      "image": null,
-      "imageVariant": null,
+      "image": "assets/dishes/35.webp",
+      "imageVariant": "Kuřecí maso",
       "source": "assets/menu-09.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Sladkokyselá omáčka se zeleninou a rýží — Kuřecí maso",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "36",
@@ -1196,10 +1299,13 @@
         }
       ],
       "allergens": [],
-      "image": null,
-      "imageVariant": null,
+      "image": "assets/dishes/36.webp",
+      "imageVariant": "Kuřecí maso",
       "source": "assets/menu-09.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Houby s rýží — Kuřecí maso",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "37",
@@ -1214,10 +1320,13 @@
       "portion": "250 g",
       "variants": [],
       "allergens": [],
-      "image": null,
+      "image": "assets/dishes/37.webp",
       "imageVariant": null,
       "source": "assets/menu-09.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Bún chả – grilované vepřové maso s rýžovými nudlemi",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "38",
@@ -1273,10 +1382,13 @@
         }
       ],
       "allergens": [],
-      "image": null,
-      "imageVariant": null,
+      "image": "assets/dishes/38.webp",
+      "imageVariant": "Kuřecí maso",
       "source": "assets/menu-09.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Po thajsku se zeleninou a rýží — Kuřecí maso",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "rice",
@@ -1291,10 +1403,13 @@
       "portion": "120 g",
       "variants": [],
       "allergens": [],
-      "image": null,
+      "image": "assets/dishes/rice.webp",
       "imageVariant": null,
       "source": "assets/menu-08.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Bílá rýže",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "fries",
@@ -1309,10 +1424,13 @@
       "portion": "120 g",
       "variants": [],
       "allergens": [],
-      "image": null,
+      "image": "assets/dishes/fries.webp",
       "imageVariant": null,
       "source": "assets/menu-08.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Hranolky",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "croquettes",
@@ -1327,10 +1445,13 @@
       "portion": "120 g",
       "variants": [],
       "allergens": [],
-      "image": null,
+      "image": "assets/dishes/croquettes.webp",
       "imageVariant": null,
       "source": "assets/menu-08.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Krokety",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "noodles",
@@ -1347,10 +1468,13 @@
       "allergens": [
         1
       ],
-      "image": null,
+      "image": "assets/dishes/noodles.webp",
       "imageVariant": null,
       "source": "assets/menu-08.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Nudle",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "sauce",
@@ -1367,10 +1491,13 @@
       "allergens": [
         3
       ],
-      "image": null,
+      "image": "assets/dishes/sauce.webp",
       "imageVariant": null,
       "source": "assets/menu-08.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Kečup / Tatarka",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "chilli",
@@ -1385,10 +1512,13 @@
       "portion": "10 g",
       "variants": [],
       "allergens": [],
-      "image": null,
+      "image": "assets/dishes/chilli.webp",
       "imageVariant": null,
       "source": "assets/menu-08.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Chili",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     },
     {
       "id": "hoisin",
@@ -1405,10 +1535,13 @@
       "allergens": [
         6
       ],
-      "image": null,
+      "image": "assets/dishes/hoisin.webp",
       "imageVariant": null,
       "source": "assets/menu-08.jpg",
-      "review": []
+      "review": [],
+      "imageType": "ai-illustration",
+      "imageAlt": "Hoisin omáčka",
+      "imageNote": "Ilustrační fotografie vytvořená pomocí AI. Skutečné servírování se může lišit."
     }
   ],
   "packaging": [
@@ -1420,5 +1553,6 @@
       "nameCs": "Velká krabice s sebou",
       "price": 12
     }
-  ]
+  ],
+  "verifiedAgainst": "Menu photographs supplied by the user on 2026-10-25; readable Czech prices and allergens preserved."
 }
